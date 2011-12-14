@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.1 (unreleased)
+1.1 (2011-12-14)
 ----------------
 
 - Fix typo on js name: formalize.js -> jquery.formalize.js
