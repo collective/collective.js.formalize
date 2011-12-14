@@ -16,5 +16,13 @@
       description='Extension profile for collective.js.formalize.'
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
+  <genericsetup:upgradeStep
+      source="1000"
+      destination="1001"
+      title="Fix typo on js resource"
+      description=""
+      profile="collective.js.formalize:default"
+      handler=".upgrades.upgrade_1000_1001"
+      />
 
 </configure>

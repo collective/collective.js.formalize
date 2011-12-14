@@ -14,6 +14,6 @@
       See registerScript() arguments in ResourceRegistries/tools/JSRegistry.py
       for the latest list of all available keys and default values.
       -->
- <javascript id="++resource++collective.js.formalize/js/formalize.js"/>
+ <javascript id="++resource++collective.js.formalize/js/jquery.formalize.js"/>
 
 </object>
